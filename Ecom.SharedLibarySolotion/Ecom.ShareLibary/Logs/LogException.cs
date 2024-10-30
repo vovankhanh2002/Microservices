@@ -1,5 +1,4 @@
 ﻿using Serilog;
-
 namespace Ecom.ShareLibary.Logs
 {
     public static class LogException
