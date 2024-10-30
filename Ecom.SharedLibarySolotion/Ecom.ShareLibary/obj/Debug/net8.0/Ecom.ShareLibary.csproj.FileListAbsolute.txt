@@ -1,0 +1,12 @@
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\bin\Debug\net8.0\Ecom.ShareLibary.deps.json
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\bin\Debug\net8.0\Ecom.ShareLibary.dll
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\bin\Debug\net8.0\Ecom.ShareLibary.pdb
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\Ecom.ShareLibary.csproj.AssemblyReference.cache
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\Ecom.ShareLibary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\Ecom.ShareLibary.AssemblyInfoInputs.cache
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\Ecom.ShareLibary.AssemblyInfo.cs
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\Ecom.ShareLibary.csproj.CoreCompileInputs.cache
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\Ecom.ShareLibary.dll
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\refint\Ecom.ShareLibary.dll
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\Ecom.ShareLibary.pdb
+D:\Ecom-Microservice\Ecom.SharedLibarySolotion\Ecom.ShareLibary\obj\Debug\net8.0\ref\Ecom.ShareLibary.dll
